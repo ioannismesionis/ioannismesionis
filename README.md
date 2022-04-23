@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ioannismesionis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ioannismesionis (Ioannis Mesionis)
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning how mathematics are used under the hood of machine learning models
+- 📫 How to reach me:
+  - e-mail: ioannis.mesionis@gmail.com
 
 <!---
 ioannismesionis/ioannismesionis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
