@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @ioannismesionis (Ioannis Mesionis)
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning how mathematics are used under the hood of machine learning models
-- 📫 How to reach me:
-  - e-mail: ioannis.mesionis@gmail.com
-
 Hi, I'm Ioannis, Lead Data Scientist 👋
-I'm a passionate Lead Data Scientist/Machine Learning Engineer with over 5 years of experience applying machine learning and statistical modeling to solve complex business problems.
+
+I'm a passionate Lead Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modeling to solve complex business problems.
 
 ⚡️ Technologies
 **Machine Learning:** Python (NumPy, Pandas, Scikit-Learn, PyTorch), R, SQL, NoSQL
