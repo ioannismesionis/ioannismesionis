@@ -1,4 +1,4 @@
-![Alt text](https://ih1.redbubble.net/image.743960863.5602/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg)
+![Alt text](https://i.pinimg.com/originals/55/1d/10/551d1091f3e178d7079d5b224f2cb69b.jpg)
 
 Hi, I'm Ioannis, Lead Data Scientist 👋
 
