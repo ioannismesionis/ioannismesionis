@@ -25,7 +25,7 @@ Lead Data Scientist at easyJet (2019 - Present)
 - Recommender Systems
 - Causal inference techniques for uplift modeling
 
-📫 Get in Touch
+📫 Get in Touch <br>
 LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/ioannis-mesionis/) <br>
 Email: ioannis.mesionis@gmail.com <br>
 Postfolio: [[Portfolio]](https://ioannismesionis.github.io/) <br>
