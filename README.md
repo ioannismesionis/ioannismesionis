@@ -1,15 +1,13 @@
-![Alt text](https://i.pinimg.com/originals/55/1d/10/551d1091f3e178d7079d5b224f2cb69b.jpg)
-
 Hi, I'm Ioannis, Lead Data Scientist 👋
 
 I'm a passionate Lead Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modeling to solve complex business problems.
 
 ⚡️ Technologies
-**Machine Learning:** Python (NumPy, Pandas, Scikit-Learn, PyTorch), R, SQL, NoSQL
+**Machine Learning:** Python (NumPy, Pandas, Scikit-Learn, PyTorch), R, SQL
 
-**MLOps:** Docker, Kubernetes, CI/CD pipelines, Model Monitoring
+**MLOps:** Docker, Git, CI/CD pipelines, Model Monitoring
 
-**Cloud:** AWS, GCP
+**Cloud:** Databrick, AWS, GCP
 
 **Visualization:** Matplotlib, Seaborn, Streamlit, R-shiny
 
@@ -23,8 +21,9 @@ Lead Data Scientist at easyJet (2019 - Present)
 - Communicated insights and recommendations to executive leadership
 
 🔭 Currently Working On
-Kubeflow pipelines for scaling ML workflows
-Causal inference techniques for uplift modeling
+- MLOps
+- Recommender Systems
+- Causal inference techniques for uplift modeling
 
 📫 Get in Touch
 LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/ioannis-mesionis/) <br>
