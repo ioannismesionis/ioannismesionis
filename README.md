@@ -1,4 +1,4 @@
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2Fdata-has-a-better-idea-by-FunnyGrief%2F36885602.EJUG5&psig=AOvVaw33c-QOYh_4wb7HpKfupOE9&ust=1700335688971000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiD4pfiy4IDFQAAAAAdAAAAABAV)
+![Alt text](https://ih1.redbubble.net/image.743960863.5602/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg)
 
 Hi, I'm Ioannis, Lead Data Scientist 👋
 
