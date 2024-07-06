@@ -16,7 +16,7 @@ I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **
 
 - **Visualization:** Matplotlib, Seaborn, Streamlit, R-shiny
 
-- **Programming:** Python, R, PySpark, SQL
+- **Programming:** Python, R, PySpark, Tensorflow, SQL
 
 **💼 Experience**
 
