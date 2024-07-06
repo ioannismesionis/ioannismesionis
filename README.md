@@ -4,9 +4,9 @@ I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **
 
 **⚡️ Technologies**
 
-**Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction
+ - **Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction
 
-**Recommender Systems:** Collaborative Filtering, Content-based Recommenders, Matrix Factorisation
+ - **Recommender Systems:** Collaborative Filtering, Content-based Recommenders, Matrix Factorisation
 
 **Reinforcement Learning:** Multi-Armed Bandits, Thompson Sampling
 
