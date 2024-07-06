@@ -8,30 +8,30 @@ I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **
 
  - **Recommender Systems:** Collaborative Filtering, Content-based Recommenders, Matrix Factorisation
 
-**Reinforcement Learning:** Multi-Armed Bandits, Thompson Sampling
+- **Reinforcement Learning:** Multi-Armed Bandits, Thompson Sampling
 
-**MLOps:** Docker, Git, CI/CD pipelines, Model Monitoring (Concept & Data Drift)
+- **MLOps:** Docker, Git, CI/CD pipelines, Model Monitoring (Concept & Data Drift)
 
-**Cloud:** Databrick, AWS, GCP (Vertex AI)
+- **Cloud:** Databrick, AWS, GCP (Vertex AI)
 
-**Visualization:** Matplotlib, Seaborn, Streamlit, R-shiny
+- **Visualization:** Matplotlib, Seaborn, Streamlit, R-shiny
 
-**Programming:** Python, R, PySpark, SQL
+- **Programming:** Python, R, PySpark, SQL
 
 **💼 Experience**
 
-Senior AI/ML Engineer (2024 - Present)
+- Senior AI/ML Engineer (2024 - Present)
 
-- Worked on the Personalisation Pillar implementing production-grade recommender systems.
-- Worked in a team of Data Scientists, Machine learning Engineers, and Data Engineers to research implementations of Multi-Armed Bandits (MAB).
-- Worked on LTV projects and explainable ML/AI.
+ - Worked on the Personalisation Pillar implementing production-grade recommender systems.
+ - Worked in a team of Data Scientists, Machine learning Engineers, and Data Engineers to research implementations of Multi-Armed Bandits (MAB).
+ - Worked on LTV projects and explainable ML/AI.
 
 
-Lead Data Scientist at easyJet (2019 - 2024)
+- Lead Data Scientist at easyJet (2019 - 2024)
 
-- Led a team of data scientists to build predictive models for the Digital, Customer, and Marketing teams.
-- Established MLOps infrastructure to streamline model development and deployment.
-- Communicated insights and recommendations to executive leadership.
+ - Led a team of data scientists to build predictive models for the Digital, Customer, and Marketing teams.
+ - Established MLOps infrastructure to streamline model development and deployment.
+ - Communicated insights and recommendations to executive leadership.
 
 **🔭 Currently Working On:**
 
