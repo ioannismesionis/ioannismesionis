@@ -42,7 +42,7 @@ Senior AI/ML Engineer (2024 - Present)
 📫 Get in Touch <br>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/) <br>
 Email: ioannis.mesionis@gmail.com <br>
-Postfolio: [Portfolio](https://ioannismesionis.github.io/) <br>
+Portfolio: [Portfolio](https://ioannismesionis.github.io/) <br>
 
 Let me know if you would like to collaborate on any data science or machine learning projects!
  
