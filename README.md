@@ -1,29 +1,41 @@
-Hi, I'm Ioannis, Lead Data Scientist 👋
+Hey, I'm Ioannis 👋
 
-I'm a passionate Lead Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modeling to solve complex business problems.
+I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
 
 ⚡️ Technologies
-**Machine Learning:** Python (NumPy, Pandas, Scikit-Learn, PyTorch), R, SQL
+**Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction
 
-**MLOps:** Docker, Git, CI/CD pipelines, Model Monitoring
+**Recommender Systems:** Collaborative Filtering, Content-based Recommenders, Matrix Factorisation
 
-**Cloud:** Databrick, AWS, GCP
+**Reinforcement Learning:** Multi-Armed Bandits, Thompson Sampling
+
+**MLOps:** Docker, Git, CI/CD pipelines, Model Monitoring (Concept & Data Drift)
+
+**Cloud:** Databrick, AWS, GCP (Vertex AI)
 
 **Visualization:** Matplotlib, Seaborn, Streamlit, R-shiny
 
 **Programming:** Python, R, PySpark, SQL
 
 💼 Experience
-Lead Data Scientist at easyJet (2019 - Present)
 
-- Led a team of data scientists to build predictive models for the Digital, Customer, and Marketing teams
-- Established MLOps infrastructure to streamline model development and deployment
-- Communicated insights and recommendations to executive leadership
+Senior AI/ML Engineer (2024 - Present)
 
-🔭 Currently Working On
-- MLOps
-- Recommender Systems
-- Causal inference techniques for uplift modeling
+- Worked on the Personalisation Pillar implementing production-grade recommender systems.
+- Worked in a team of Data Scientists, Machine learning Engineers, and Data Engineers to research implementations of Multi-Armed Bandits (MAB).
+- Worked on LTV projects and explainable ML/AI.
+
+
+Lead Data Scientist at easyJet (2019 - 2024)
+
+- Led a team of data scientists to build predictive models for the Digital, Customer, and Marketing teams.
+- Established MLOps infrastructure to streamline model development and deployment.
+- Communicated insights and recommendations to executive leadership.
+
+🔭 Currently Working On:
+- Recommender Systems (Collaborative Filtering)
+- Multi-Armed Bandits (MAB)
+- Causal inference techniques for uplift modelling
 
 📫 Get in Touch <br>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/) <br>
