@@ -20,14 +20,14 @@ I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **
 
 **💼 Experience**
 
-- Senior AI/ML Engineer (2024 - Present)
+Senior AI/ML Engineer (2024 - Present)
 
  - Worked on the Personalisation Pillar implementing production-grade recommender systems.
  - Worked in a team of Data Scientists, Machine learning Engineers, and Data Engineers to research implementations of Multi-Armed Bandits (MAB).
  - Worked on LTV projects and explainable ML/AI.
 
 
-- Lead Data Scientist at easyJet (2019 - 2024)
+ Lead Data Scientist at easyJet (2019 - 2024)
 
  - Led a team of data scientists to build predictive models for the Digital, Customer, and Marketing teams.
  - Established MLOps infrastructure to streamline model development and deployment.
