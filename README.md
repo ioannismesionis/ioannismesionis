@@ -2,7 +2,8 @@ Hey, I'm Ioannis 👋
 
 I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
 
-⚡️ Technologies
+**⚡️ Technologies**
+
 **Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction
 
 **Recommender Systems:** Collaborative Filtering, Content-based Recommenders, Matrix Factorisation
@@ -17,7 +18,7 @@ I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **
 
 **Programming:** Python, R, PySpark, SQL
 
-💼 Experience
+**💼 Experience**
 
 Senior AI/ML Engineer (2024 - Present)
 
@@ -32,7 +33,8 @@ Lead Data Scientist at easyJet (2019 - 2024)
 - Established MLOps infrastructure to streamline model development and deployment.
 - Communicated insights and recommendations to executive leadership.
 
-🔭 Currently Working On:
+**🔭 Currently Working On:**
+
 - Recommender Systems (Collaborative Filtering)
 - Multi-Armed Bandits (MAB)
 - Causal inference techniques for uplift modelling
