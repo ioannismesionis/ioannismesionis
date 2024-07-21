@@ -2,11 +2,11 @@
   <img src="https://github.com/ioannismesionis/ioannismesionis/blob/main/assets/data-has-a-better-idea.jpg" />
 </p>
 
-Hey, I'm Ioannis 👋
+## Hey Data Enthusiasts! 👋
 
-I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
+I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
 
-**⚡️ Technologies**
+## ⚡️ Technologies**
 
  - **Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction
 
@@ -22,7 +22,7 @@ I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **
 
 - **Programming:** Python, R, PySpark, Tensorflow, SQL
 
-**💼 Experience**
+## 💼 Experience**
 
 Senior AI/ML Engineer at @King (part of Microsoft)(2024 - Present)
 
@@ -43,7 +43,7 @@ Senior AI/ML Engineer at @King (part of Microsoft)(2024 - Present)
 - Multi-Armed Bandits (MAB)
 - Causal inference techniques for uplift modelling
 
-📫 Get in Touch <br>
+## 📫 Get in Touch <br>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/) <br>
 Email: ioannis.mesionis@gmail.com <br>
 Portfolio: [Portfolio](https://ioannismesionis.github.io/) <br>
