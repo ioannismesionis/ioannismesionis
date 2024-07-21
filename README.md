@@ -11,6 +11,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ### 🤖 Machine Learning
 ![Static Badge](https://img.shields.io/badge/Regression-orange)
 ![Static Badge](https://img.shields.io/badge/Classification-orange)
+![Static Badge](https://img.shields.io/badge/Regularisation-orange)
 ![Static Badge](https://img.shields.io/badge/Clustering-orange)
 ![Static Badge](https://img.shields.io/badge/Dimensionality_Reduction-orange)
 ![Static Badge](https://img.shields.io/badge/Recommender_Systems-orange)
@@ -22,6 +23,8 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ![Static Badge](https://img.shields.io/badge/Learn_to_Rank-orange)
 ![Static Badge](https://img.shields.io/badge/Multi_Armed_Bandits-orange)
 ![Static Badge](https://img.shields.io/badge/Thompson_Sampling-orange)
+![Static Badge](https://img.shields.io/badge/Deep_Learning-orange)
+![Static Badge](https://img.shields.io/badge/Neural_Networks-orange)
 
 ### 👨🏻‍💻 Programming
 ![Static Badge](https://img.shields.io/badge/Python-blue)
@@ -46,6 +49,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ![Static Badge](https://img.shields.io/badge/Data_Drift-grey)
 ![Static Badge](https://img.shields.io/badge/Concept_Drift-grey)
 ![Static Badge](https://img.shields.io/badge/CI--CD_Pipeline-grey)
+![Static Badge](https://img.shields.io/badge/Unit_Testing-grey)
 
 ### 🧰 Libraries
 ![Static Badge](https://img.shields.io/badge/pandas-yellow)
@@ -55,6 +59,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ![Static Badge](https://img.shields.io/badge/seaborn-yellow)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-yellow)
 ![Static Badge](https://img.shields.io/badge/tensorflow-yellow)
+![Static Badge](https://img.shields.io/badge/pytorch-yellow)
 ![Static Badge](https://img.shields.io/badge/yellowbricks-yellow)
 ![Static Badge](https://img.shields.io/badge/feature--engine-yellow)
 ![Static Badge](https://img.shields.io/badge/evidently--ai-yellow)
@@ -65,6 +70,11 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ![Static Badge](https://img.shields.io/badge/streamlit-yellow)
 ![Static Badge](https://img.shields.io/badge/r--shiny-yellow)
 ![Static Badge](https://img.shields.io/badge/keras-yellow)
+![Static Badge](https://img.shields.io/badge/SQLAlchemy-yellow)
+![Static Badge](https://img.shields.io/badge/BeautifulSoup-yellow)
+![Static Badge](https://img.shields.io/badge/selenium-yellow)
+![Static Badge](https://img.shields.io/badge/pytest-yellow)
+![Static Badge](https://img.shields.io/badge/pipenv-yellow)
 
 
 ## 💼 Experience
@@ -91,7 +101,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ## 📫 Get in Touch <br>
 - [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/)
 - [Portfolio](https://ioannismesionis.github.io/)
-- Email: ioannis.mesionis@gmail.com
+- ioannis.mesionis@gmail.com
 
 Let me know if you would like to collaborate on any data science or machine learning projects!
  
