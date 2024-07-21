@@ -91,7 +91,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ## 📫 Get in Touch <br>
 - [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/)
 - [Portfolio](https://ioannismesionis.github.io/)
-- [Email](ioannis.mesionis@gmail.com)
+- [Email](mailto:ioannis.mesionis@gmail.com)
 
 Let me know if you would like to collaborate on any data science or machine learning projects!
  
