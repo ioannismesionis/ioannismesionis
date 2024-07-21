@@ -109,7 +109,7 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
  - Established MLOps infrastructure to streamline model development and deployment.
  - Communicated insights and recommendations to executive leadership.
 
-## 🔭 Currently Working On:
+## 🔭 Currently Working On
 
 - Recommender Systems (Collaborative Filtering)
 - Multi-Armed Bandits (Thompson Sampling)
