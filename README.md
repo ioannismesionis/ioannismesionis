@@ -6,7 +6,7 @@
 
 I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
 
-## ⚡️ Technologies**
+## ⚙️ Technologies
 
  - **Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction
 
@@ -22,7 +22,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 
 - **Programming:** Python, R, PySpark, Tensorflow, SQL
 
-## 💼 Experience**
+## 💼 Experience
 
 Senior AI/ML Engineer at @King (part of Microsoft)(2024 - Present)
 
