@@ -11,16 +11,16 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 
 
 ### 🤖 Machine Learning
-![Static Badge](https://img.shields.io/badge/Regression-dark_orange)
-![Static Badge](https://img.shields.io/badge/Classification-green)
-![Static Badge](https://img.shields.io/badge/Clustering-green)
-![Static Badge](https://img.shields.io/badge/Dimensionality_Reduction-green)
-![Static Badge](https://img.shields.io/badge/Recommender_Systems-green)
-![Static Badge](https://img.shields.io/badge/Collaborative_Filtering-green)
-![Static Badge](https://img.shields.io/badge/Content_Based_Recommenders-green)
-![Static Badge](https://img.shields.io/badge/Matrix_Factorisation-green)
-![Static Badge](https://img.shields.io/badge/Multi_Armed_Bandits-green)
-![Static Badge](https://img.shields.io/badge/Thompson_Sampling-green)
+![Static Badge](https://img.shields.io/badge/Regression-orange)
+![Static Badge](https://img.shields.io/badge/Classification-orange)
+![Static Badge](https://img.shields.io/badge/Clustering-orange)
+![Static Badge](https://img.shields.io/badge/Dimensionality_Reduction-orange)
+![Static Badge](https://img.shields.io/badge/Recommender_Systems-orange)
+![Static Badge](https://img.shields.io/badge/Collaborative_Filtering-orange)
+![Static Badge](https://img.shields.io/badge/Content_Based_Recommenders-orange)
+![Static Badge](https://img.shields.io/badge/Matrix_Factorisation-orange)
+![Static Badge](https://img.shields.io/badge/Multi_Armed_Bandits-orange)
+![Static Badge](https://img.shields.io/badge/Thompson_Sampling-orange)
 
 ### 👨🏻‍💻 Programming
 ![Static Badge](https://img.shields.io/badge/Python-blue)
