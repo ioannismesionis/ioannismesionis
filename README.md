@@ -4,7 +4,11 @@
 
 ## Hey, Data Enthusiasts! 👋
 
-I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
+I am Ioannis, a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
+
+📚 **Education** <br>
+- 🇬🇧 M.Sc. Data Science at @Essex Univerity _(Distinction)_
+- 🇬🇷 B.Sc. Mathematics at @Ioannina Univerity
 
 ## ⚙️ Technologies
 
@@ -12,6 +16,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ![Static Badge](https://img.shields.io/badge/Regression-orange)
 ![Static Badge](https://img.shields.io/badge/Classification-orange)
 ![Static Badge](https://img.shields.io/badge/Regularisation-orange)
+![Static Badge](https://img.shields.io/badge/Ensemble_Methods-orange)
 ![Static Badge](https://img.shields.io/badge/Clustering-orange)
 ![Static Badge](https://img.shields.io/badge/Dimensionality_Reduction-orange)
 ![Static Badge](https://img.shields.io/badge/Recommender_Systems-orange)
@@ -57,6 +62,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 ![Static Badge](https://img.shields.io/badge/xgboost-yellow)
 ![Static Badge](https://img.shields.io/badge/lightgbm-yellow)
 ![Static Badge](https://img.shields.io/badge/seaborn-yellow)
+![Static Badge](https://img.shields.io/badge/matplotlib-yellow)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-yellow)
 ![Static Badge](https://img.shields.io/badge/tensorflow-yellow)
 ![Static Badge](https://img.shields.io/badge/pytorch-yellow)
@@ -92,7 +98,7 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
  - Established MLOps infrastructure to streamline model development and deployment.
  - Communicated insights and recommendations to executive leadership.
 
-**🔭 Currently Working On:**
+## 🔭 Currently Working On:
 
 - Recommender Systems (Collaborative Filtering)
 - Multi-Armed Bandits (Thompson Sampling)
