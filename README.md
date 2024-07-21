@@ -11,15 +11,13 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 
 
 ### 👨‍💻 Machine Learning
-
-<p>
 ![Static Badge](https://img.shields.io/badge/Regression-green)
 ![Static Badge](https://img.shields.io/badge/Classification-green)
 ![Static Badge](https://img.shields.io/badge/Clustering-green)
 ![Static Badge](https://img.shields.io/badge/Dimensionality_Reduction-green)
 ![Static Badge](https://img.shields.io/badge/Recommender_Systems-green)
 ![Static Badge](https://img.shields.io/badge/Multi_Armed_Bandits-green)
-</p>
+
 
 ### 👨🏻‍💻 Programming
 ![Static Badge](https://img.shields.io/badge/Python-blue.svg)
