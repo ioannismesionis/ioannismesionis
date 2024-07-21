@@ -2,13 +2,15 @@
   <img src="https://github.com/ioannismesionis/ioannismesionis/blob/main/assets/data-has-a-better-idea.jpg" />
 </p>
 
-## Hey, Data Enthusiasts! 👋
+## 💬 About
 
-I am Ioannis, a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
+Hey, Data Enthusiasts! 👋
+
+I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
 
 ### 📚 Education <br>
-- 🇬🇧 M.Sc. Data Science at @Essex Univerity _(Distinction)_
-- 🇬🇷 B.Sc. Mathematics at @Ioannina Univerity
+- 🇬🇧 M.Sc. Data Science at @Essex Univerity **(Distinction)**
+- 🇬🇷 B.Sc. Mathematics at @Ioannina University
 
 ## ⚙️ Technologies
 
@@ -93,7 +95,6 @@ I am Ioannis, a passionate Senior AI Data Scientist/Machine Learning Engineer wi
 ![Static Badge](https://img.shields.io/badge/pipenv-yellow)
 ![Static Badge](https://img.shields.io/badge/toml-yellow)
 
-
 ## 💼 Experience
 
 🍬 **Senior AI/ML Engineer at @King (part of Microsoft)** (2024 - Present)
@@ -101,7 +102,6 @@ I am Ioannis, a passionate Senior AI Data Scientist/Machine Learning Engineer wi
  - Worked on the Personalisation Pillar implementing production-grade recommender systems.
  - Worked in a team of Data Scientists, Machine learning Engineers, and Data Engineers to research Multi-Armed Bandits (MAB) implementations.
  - Worked on LTV projects and explainable ML/AI.
-
 
 ✈️ **Lead Data Scientist at @easyJet** (2019 - 2024)
 
@@ -121,7 +121,7 @@ I am Ioannis, a passionate Senior AI Data Scientist/Machine Learning Engineer wi
 - ioannis.mesionis@gmail.com
 
 Let me know if you would like to collaborate on any data science or machine learning projects!
- 
+
 <!---
 ioannismesionis/ioannismesionis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
