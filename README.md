@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ioannismesionis/ioannismesionis/blob/main/assets/data-has-a-better-idea-image.png" />
+  <img src="https://github.com/ioannismesionis/ioannismesionis/blob/main/assets/data-has-a-better-idea.jpg" />
 </p>
 
 Hey, I'm Ioannis 👋
