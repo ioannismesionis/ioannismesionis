@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ioannismesionis/ioannismesionis/blob/main/assets/data-has-a-better-idea-image.png" />
+</p>
+
 Hey, I'm Ioannis 👋
 
 I'm a passionate Senior AI Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
