@@ -89,8 +89,8 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 - Causal Inference
 
 ## 📫 Get in Touch <br>
-![Static Badge](https://img.shields.io/badge/LinkedIn-black): <br>
-[LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/) <br>
+![Static Badge](https://img.shields.io/badge/LinkedIn-black) -> [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/) <br>
+ <br>
 
 ![Static Badge](https://img.shields.io/badge/email-black): ioannis.mesionis@gmail.com <br>
 ![Static Badge](https://img.shields.io/badge/Portfolio-black): [Portfolio](https://ioannismesionis.github.io/) <br>
