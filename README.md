@@ -69,14 +69,14 @@ I am Ioannis,  a passionate Senior AI Data Scientist/Machine Learning Engineer w
 
 ## 💼 Experience
 
-Senior AI/ML Engineer at @King (part of Microsoft)(2024 - Present)
+**Senior AI/ML Engineer at @King (part of Microsoft)** (2024 - Present)
 
  - Worked on the Personalisation Pillar implementing production-grade recommender systems.
  - Worked in a team of Data Scientists, Machine learning Engineers, and Data Engineers to research Multi-Armed Bandits (MAB) implementations.
  - Worked on LTV projects and explainable ML/AI.
 
 
- Lead Data Scientist at @easyJet (2019 - 2024)
+**Lead Data Scientist at @easyJet** (2019 - 2024)
 
  - Led a team of data scientists to build predictive models for the Digital, Customer, and Marketing teams.
  - Established MLOps infrastructure to streamline model development and deployment.
@@ -85,8 +85,8 @@ Senior AI/ML Engineer at @King (part of Microsoft)(2024 - Present)
 **🔭 Currently Working On:**
 
 - Recommender Systems (Collaborative Filtering)
-- Multi-Armed Bandits (MAB)
-- Causal inference techniques for uplift modelling
+- Multi-Armed Bandits (Thompson Sampling)
+- Causal Inference
 
 ## 📫 Get in Touch <br>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/) <br>
