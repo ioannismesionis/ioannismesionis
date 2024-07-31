@@ -19,6 +19,7 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
 ![Static Badge](https://img.shields.io/badge/Classification-orange)
 ![Static Badge](https://img.shields.io/badge/Regularisation-orange)
 ![Static Badge](https://img.shields.io/badge/Ensemble_Methods-orange)
+![Static Badge](https://img.shields.io/badge/Gradient_Boosting-orange)
 ![Static Badge](https://img.shields.io/badge/Clustering-orange)
 ![Static Badge](https://img.shields.io/badge/Dimensionality_Reduction-orange)
 ![Static Badge](https://img.shields.io/badge/Recommender_Systems-orange)
@@ -54,6 +55,7 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
 ![Static Badge](https://img.shields.io/badge/Docker-purple)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-purple)
 ![Static Badge](https://img.shields.io/badge/GitHub-purple)
+![Static Badge](https://img.shields.io/badge/Domino-purple)
 
 ### 👷🏻‍♂️ MLOps
 ![Static Badge](https://img.shields.io/badge/Docker-grey)
