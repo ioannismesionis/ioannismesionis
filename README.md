@@ -50,7 +50,7 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
 
 ### ☁️ Cloud
 ![Static Badge](https://img.shields.io/badge/GCP-purple)
-![Static Badge](https://img.shields.io/badge/Vertex AI-purple)
+![Static Badge](https://img.shields.io/badge/Vertex--AI-purple)
 ![Static Badge](https://img.shields.io/badge/Databricks-purple)
 ![Static Badge](https://img.shields.io/badge/AWS-purple)
 ![Static Badge](https://img.shields.io/badge/Docker-purple)
