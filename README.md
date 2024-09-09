@@ -102,7 +102,6 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
 
 🍬 **Senior AI/ML Engineer at @King (part of Microsoft)** (2024 - Present)
 
-Responsibilities:
 - Leading the development and deployment of production-grade recommender systems and personalized data products within the Personalisation Pillar.
 - Collaborating with a cross-functional team of Data Scientists, Machine Learning Engineers, and Data Engineers to explore and implement Multi-Armed Bandits (MAB) models for diverse use cases.
 - Driving innovation in supervised machine learning and advancing explainable ML/AI solutions to enhance model transparency and trust.
