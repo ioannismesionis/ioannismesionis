@@ -22,7 +22,7 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
  - Established MLOps infrastructure to streamline model development and deployment.
  - Communicated insights and recommendations to executive leadership.
 
-### 📚 Education <br>
+## 📚 Education <br>
 - 🇬🇧 M.Sc. Data Science at @Essex Univerity **(Distinction)**
 - 🇬🇷 B.Sc. Mathematics at @Ioannina University
 
