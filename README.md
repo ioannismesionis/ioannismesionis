@@ -8,6 +8,20 @@ Hey, Data Enthusiasts! 👋
 
 I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **5+ years of experience** applying machine learning and statistical modelling to solve complex business problems.
 
+## 💼 Experience
+
+🍬 **Senior AI/ML Engineer at @King (part of Microsoft)** (2024 - Present)
+
+- Leading the development and deployment of production-grade recommender systems and personalized data products within the Personalisation Pillar.
+- Collaborating with a cross-functional team of Data Scientists, Machine Learning Engineers, and Data Engineers to explore and implement Multi-Armed Bandits (MAB) models for diverse use cases.
+- Driving innovation in supervised machine learning and advancing explainable ML/AI solutions to enhance model transparency and trust.
+
+✈️ **Lead Data Scientist at @easyJet** (2019 - 2024)
+
+ - Led a team of data scientists to build predictive models for the Digital, Customer, and Marketing teams.
+ - Established MLOps infrastructure to streamline model development and deployment.
+ - Communicated insights and recommendations to executive leadership.
+
 ### 📚 Education <br>
 - 🇬🇧 M.Sc. Data Science at @Essex Univerity **(Distinction)**
 - 🇬🇷 B.Sc. Mathematics at @Ioannina University
@@ -98,20 +112,6 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
 ![Static Badge](https://img.shields.io/badge/pytest-yellow)
 ![Static Badge](https://img.shields.io/badge/pipenv-yellow)
 ![Static Badge](https://img.shields.io/badge/toml-yellow)
-
-## 💼 Experience
-
-🍬 **Senior AI/ML Engineer at @King (part of Microsoft)** (2024 - Present)
-
-- Leading the development and deployment of production-grade recommender systems and personalized data products within the Personalisation Pillar.
-- Collaborating with a cross-functional team of Data Scientists, Machine Learning Engineers, and Data Engineers to explore and implement Multi-Armed Bandits (MAB) models for diverse use cases.
-- Driving innovation in supervised machine learning and advancing explainable ML/AI solutions to enhance model transparency and trust.
-
-✈️ **Lead Data Scientist at @easyJet** (2019 - 2024)
-
- - Led a team of data scientists to build predictive models for the Digital, Customer, and Marketing teams.
- - Established MLOps infrastructure to streamline model development and deployment.
- - Communicated insights and recommendations to executive leadership.
 
 ## 📫 Get in Touch <br>
 - [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/)
