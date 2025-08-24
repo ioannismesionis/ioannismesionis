@@ -115,7 +115,8 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
 
 ## 📫 Get in Touch <br>
 - [LinkedIn](https://www.linkedin.com/in/ioannis-mesionis/)
-- [Portfolio](https://ioannismesionis.github.io/)
+- [Portfolio](https://ioannismesionis-mle-portfolio.vercel.app/)
+- [Blogs](https://ioannismesionis.github.io/)
 - ioannis.mesionis@gmail.com
 
 Let me know if you would like to collaborate on any data science or machine learning projects!
