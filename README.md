@@ -23,6 +23,7 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
  - Communicated insights and recommendations to executive leadership.
 
 ## 📚 Education <br>
+- 🌎 Executive MBA at @Quantic Business School & Technology**
 - 🇬🇧 M.Sc. Data Science at @Essex Univerity **(Distinction)**
 - 🇬🇷 B.Sc. Mathematics at @Ioannina University
 
