@@ -123,7 +123,7 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
 Let me know if you would like to collaborate on any data science or machine learning projects!
 
 <p align="left">
-  <img src="https://github.com/ioannismesionis/ioannismesionis/blob/main/assets/portfolio-barcode.png" width="200" />
+  <img src="https://github.com/ioannismesionis/ioannismesionis/blob/main/assets/portfolio-barcode.png" width="150" />
 </p>
 
 
