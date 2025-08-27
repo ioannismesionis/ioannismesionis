@@ -122,6 +122,10 @@ I am Ioannis, a passionate Data Scientist/Machine Learning Engineer with over **
 
 Let me know if you would like to collaborate on any data science or machine learning projects!
 
+<p align="left">
+  <img src="https://github.com/ioannismesionis/ioannismesionis/blob/main/assets/portfolio-barcode.png" />
+</p>
+
 <!---
 ioannismesionis/ioannismesionis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
